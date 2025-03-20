@@ -11,7 +11,7 @@ Os usuários podem adicionar pontos manualmente e visualizar a linha de regress�
 ## Como Executar
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/kellyleticia/estudos-regressao-linear.git
    ```
 2. Abra o arquivo `index.html` em um navegador.
 
